@@ -21,9 +21,12 @@
 .App-link {
   color: #61dafb;
 }
+.adunare{
+  background-color: rgb(82, 243, 7);
+}
 
 .heart {
-  color: #ff0000;
+  color: #00fffb;
 }
 
 .small {
